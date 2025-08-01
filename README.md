@@ -45,11 +45,33 @@ It combined programming with real-world construction (wooden frame and all), whi
 During Spring of my second year at Stevens, I worked on a **machine learning model** to predict company bankruptcies using financial data.  
 Collaborated with an amazing team (*shoutout Ryan Hu, Xiaotong Feng, and Prutha Trivedi!*)
 
-- Used techniques like **VIF filtering** and **PCA analysis** to reduce noise and extract meaningful features  
-- Achieved **top-4 class performance**  
-- In hindsight: we could’ve improved cluster feature reduction, but the learning was absolutely worth it
+- Used techniques like **VIF filtering** and **PCA analysis** to reduce noise and extract meaningful features.  
+- Achieved **top-4 class performance**.  
+- In hindsight: we could’ve improved cluster feature reduction, but the learning was absolutely worth it.
 
 This project deepened my love for ML and showed me how real data requires just as much critical thinking as code does.
+
+---
+
+### 🕰️ Book Review Classifier Model
+During my time in the **Break Through Tech AI and Machine Learning Program**, I developed a natural language processor to classify if a review's sentiment was positive or negative.
+Collaborated with a small lab team assigned to me during a lab section.
+
+- Used **Keras and TensorFlow** to create a neural network, integrating aspects of deep learning.
+- Trained the neural network using **supervised learning**.
+- Tweaked hyperparameters in the neural network and with the **TF-IDF vectorizer** object to achieve the most optimal results.
+
+The complexity of natural language processing was something I hadn't thought about until this project, and getting hands-on experience with this topic expanded my knowledge of deep learning.
+
+---
+
+### 😲 Handwritten Number Classifier Model
+Also during my time in the **Break Through Tech AI and Machine Learning Program**, I had the privelege to learn about and play around with **convolutional neural networks**, using them to classify images of handwritten digits.
+
+- Took advantage of **filtering, pooling, and batch normalization layers** to consolidate the image information into something the neural network can process.
+- Was able to classify the test set with **greater than 90% accuracy** (highest score was 96%).
+
+This was the most interesting project that I have done so far in my opinion, and knowing how convolutional neural networks work was an insightful experience.
 
 ---
 
